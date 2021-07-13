@@ -1,3 +1,3 @@
 # Platforming-Game
-A game I made using Gamemaker which is a game making program that uses JavaScript, C++ and C#.
+A platforming game I made using Gamemaker with functional controls and implemented cool visuals to enhance the gaming experience.
  
